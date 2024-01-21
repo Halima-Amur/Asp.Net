@@ -1,0 +1,12 @@
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.DAL\bin\Debug\net8.0\CodeAcedmyCompany.DAL.deps.json
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.DAL\bin\Debug\net8.0\CodeAcedmyCompany.DAL.dll
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.DAL\bin\Debug\net8.0\CodeAcedmyCompany.DAL.pdb
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.DAL\obj\Debug\net8.0\CodeAcedmyCompany.DAL.csproj.AssemblyReference.cache
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.DAL\obj\Debug\net8.0\CodeAcedmyCompany.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.DAL\obj\Debug\net8.0\CodeAcedmyCompany.DAL.AssemblyInfoInputs.cache
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.DAL\obj\Debug\net8.0\CodeAcedmyCompany.DAL.AssemblyInfo.cs
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.DAL\obj\Debug\net8.0\CodeAcedmyCompany.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.DAL\obj\Debug\net8.0\CodeAcedmyCompany.DAL.dll
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.DAL\obj\Debug\net8.0\refint\CodeAcedmyCompany.DAL.dll
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.DAL\obj\Debug\net8.0\CodeAcedmyCompany.DAL.pdb
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.DAL\obj\Debug\net8.0\ref\CodeAcedmyCompany.DAL.dll

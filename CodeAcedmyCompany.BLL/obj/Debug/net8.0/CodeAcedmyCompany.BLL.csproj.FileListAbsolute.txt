@@ -1,0 +1,15 @@
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\bin\Debug\net8.0\CodeAcedmyCompany.BLL.deps.json
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\bin\Debug\net8.0\CodeAcedmyCompany.BLL.dll
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\bin\Debug\net8.0\CodeAcedmyCompany.BLL.pdb
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\obj\Debug\net8.0\CodeAcedmyCompany.BLL.csproj.AssemblyReference.cache
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\obj\Debug\net8.0\CodeAcedmyCompany.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\obj\Debug\net8.0\CodeAcedmyCompany.BLL.AssemblyInfoInputs.cache
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\obj\Debug\net8.0\CodeAcedmyCompany.BLL.AssemblyInfo.cs
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\obj\Debug\net8.0\CodeAcedmyCompany.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\obj\Debug\net8.0\CodeAcedmyCompany.BLL.csproj.CopyComplete
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\obj\Debug\net8.0\CodeAcedmyCompany.BLL.dll
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\obj\Debug\net8.0\refint\CodeAcedmyCompany.BLL.dll
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\obj\Debug\net8.0\CodeAcedmyCompany.BLL.pdb
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\obj\Debug\net8.0\ref\CodeAcedmyCompany.BLL.dll
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\bin\Debug\net8.0\CodeAcedmyCompany.DAL.dll
+C:\Users\ريم\Desktop\Halima\CodeAcedmyCompany solution\CodeAcedmyCompany.BLL\bin\Debug\net8.0\CodeAcedmyCompany.DAL.pdb
